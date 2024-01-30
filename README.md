@@ -31,7 +31,7 @@ Revolutionizing art finance, our platform pioneers NFT collateralization with GH
 2. Clone the repo.
    
 ```
-https://github.com/MukulKolpe/LFGHO
+gh repo clone ashishgupta1527/LFGHO
 ```
 ## Backend Setup 👷
 
